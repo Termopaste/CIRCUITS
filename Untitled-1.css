@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 1400px;
+    margin: auto;
+    background-color: #161722;
+}
+header{
+    background-color: #b80322;
+    height: 650px;
+}
+.head1{
+    text-align: center;
+    
+    color: white;
+}
+#nazv{
+    font-size: 128px;
+    font-weight: bold;
+    padding-top: 220px;
+}
+article{
+    padding: 63px 0px 0px 120px;
+    background-color: #2B2D42;
+    color: white;
+    font-size: 24px;
+    height: 390px;
+}
+article h2{
+    padding-bottom: 20px;
+}
+.text1{
+    width: 850px;
+}
+.filex{ 
+    width: 550px;
+    display: inline-block;   
+}
+section{
+    padding:63px 0px 0px 120px;
+    color: white;
+    font-size: 24px;
+    height: 550px;
+    background-color: #8D99AE;
+}
+section h2{
+    margin-bottom: 40px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+section a:hover{
+    color: rgb(36, 189, 216);
+}
+.Gallery{
+    background-color: #474775;
+    font-size: 24px;
+    height: 1050px;
+}
+.Gallery h2{
+    padding:50px 0px 0px 120px;
+}
+.Gallery1{
+    display: flex;
+    text-align: center;
+    margin-top: 30px;
+}
+.Gallery a:hover{
+    color:rgb(36, 189, 216); ;
+}
+.car1 img{
+    width: 600px;
+    height: 400px;
+    margin: 10px 0px 10px 0px;
+}
+.car2 img{
+    width: 600px;
+    height: 400px;
+    margin: 10px 0px 10px 0px;
+}
+footer{
+    background-color: #2B2D42;
+    font-size: 24px;
+    color: aliceblue;
+    height: 180px;
+}
+.join{
+    display: block;
+    text-align: center;
+    padding-top: 60px;
+}
+button{
+    width: 100px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: #8D99AE;
+    color: rgb(253, 253, 253);
+    font-size: 14px;
+}
+.pravs{
+    font-size: 14px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
